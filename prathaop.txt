@@ -87,3 +87,6 @@ select * from empy where hiredate in('1981-05-1','1981-12-3','1981-12-17','1980-
 select * from empno
 select * from empname
 select * frrom empsal
+kilool88;p
+6i87k7lkl8
+lo8lo8lo8oo
